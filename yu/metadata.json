@@ -1,0 +1,7 @@
+{
+  "name": "yu",
+  "description": "love",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
